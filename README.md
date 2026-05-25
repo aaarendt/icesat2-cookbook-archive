@@ -1,7 +1,6 @@
-```{image} https://www.nasa.gov/wp-content/uploads/2023/03/icesat2-logo_0.jpg
-:alt: ICESat-2 mission logo
-:width: 300px
-```
+# Archival Status
+
+This repository was originally developed in the ICEsat-2 organization. Now that it is ready for distribution, it has been transferred to Project Pythia for distribution in their cookbook on May 25, 2026. Here is the new [icesat-2 cookbook link at Project Pythia](https://github.com/ProjectPythia/icesat2-cookbook). We are retaining this archival version here in case anyone needs to access the git history.
 
 # ICESat-2 Cookbook
 
